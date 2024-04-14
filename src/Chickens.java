@@ -8,7 +8,7 @@ import org.dreambot.api.utilities.Logger;
 import org.dreambot.api.utilities.Sleep;
 import org.dreambot.api.methods.dialogues.Dialogues;
 
-@ScriptManifest(name = "Test", description = "test", author = "erik",
+@ScriptManifest(name = "chicken-bot", description = "kills them birds", author = "longarm",
         version = 1.0, category = Category.MISC, image = "")
 
 public class Chickens extends AbstractScript {
