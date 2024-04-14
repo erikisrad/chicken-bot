@@ -1,0 +1,3 @@
+public enum Target {
+    DESIRED, UNDESIRED, NO_TARGET, UNREACHABLE
+}
