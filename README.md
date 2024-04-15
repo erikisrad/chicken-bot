@@ -1,2 +1,2 @@
 # chickenbot
- a java based osrs bot utilizing the dreambot client
+ a java based osrs combat bot utilizing the dreambot client
