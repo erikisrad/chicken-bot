@@ -38,6 +38,7 @@ public class Chickens extends AbstractScript {
     @Override
     public void onStart() {
 
+        Logger.setDisplayDebugMessages(false);
         z = new ZenAntiBan(this);
         u= new Utilities();
         Logger.log("booting script...");
